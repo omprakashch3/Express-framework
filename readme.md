@@ -4,3 +4,10 @@ Express.js:- Express.js is a Node js web application server framework, which is 
 
 ##Installing and using Express
 npm install express or npm i express
+
+##routes
+Routing determine the way in which an application responds to a client request to a particular endpoint.
+For example, a client can make a GET, POST, PUT or DELETE http request for various URL such as the ones shown below;
+
+http://localhost:3000/Books
+http://localhost:3000/Students
